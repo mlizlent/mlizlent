@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Meroline Lizlent</h1>
+<h1 align="center">Hi, I'm Mlizlent</h1>
 <h3 align="center">Software Engineer building software, systems, and smart platforms</h3>
 
 <p align="center">
