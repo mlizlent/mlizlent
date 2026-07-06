@@ -20,7 +20,7 @@
 
 I create, develop, and sustain software programs, operating systems, and smart systems — turning complex technical challenges into secure, scalable, functional code.
 
-I use **Python, JavaScript, HTML, CSS, and Go** to build applications and embed machine learning models into production-ready systems. I work closely with data scientists, designers, and product managers across the full development lifecycle — writing clean code, training models, and optimizing algorithms to keep AI-driven platforms **secure, scalable, and innovative**.
+I use **Python, JavaScript, HTML, CSS, and Go** to build applications and embed machine learning models into production-ready systems. I work closely with data scientists, designers, and product managers across the full development lifecycle writing clean code, training models, and optimizing algorithms to keep AI-driven platforms **secure, scalable, and innovative**.
 
 ---
 
