@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mlizlent</h1>
+<h1 align="center">Hi, I'm Mlizlent</h1>
 <h3 align="center">Software Engineer building software, systems, and smart platforms</h3>
 
 <p align="center">
@@ -65,7 +65,7 @@ I use **Python, JavaScript, HTML, CSS, and Go** to build applications and embed 
 
 ---
 
-### 🔭 What I've Been Building
+### What I've Been Building
 
 - **Lightning Network & Bitcoin applications** — projects interfacing with LND via gRPC for real-world payment use cases
 - **Go backend systems** — full-stack apps with SQLite, authentication, session management, and clean routing
@@ -77,8 +77,8 @@ I use **Python, JavaScript, HTML, CSS, and Go** to build applications and embed 
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meroline-lizlent&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meroline-lizlent&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mlizlent&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlizlent&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
